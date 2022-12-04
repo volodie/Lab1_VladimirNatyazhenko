@@ -1,0 +1,16 @@
+C:\Users\v.natyazhenko\source\repos\SimpleTypes\SimpleTypes\bin\Debug\SimpleTypes.exe.config
+C:\Users\v.natyazhenko\source\repos\SimpleTypes\SimpleTypes\bin\Debug\SimpleTypes.exe
+C:\Users\v.natyazhenko\source\repos\SimpleTypes\SimpleTypes\bin\Debug\SimpleTypes.pdb
+C:\Users\v.natyazhenko\source\repos\SimpleTypes\SimpleTypes\obj\Debug\SimpleTypes.csproj.AssemblyReference.cache
+C:\Users\v.natyazhenko\source\repos\SimpleTypes\SimpleTypes\obj\Debug\SimpleTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\v.natyazhenko\source\repos\SimpleTypes\SimpleTypes\obj\Debug\SimpleTypes.csproj.CoreCompileInputs.cache
+C:\Users\v.natyazhenko\source\repos\SimpleTypes\SimpleTypes\obj\Debug\SimpleTypes.exe
+C:\Users\v.natyazhenko\source\repos\SimpleTypes\SimpleTypes\obj\Debug\SimpleTypes.pdb
+F:\visualstudio\rep\SimpleTypes\SimpleTypes\obj\Debug\SimpleTypes.csproj.AssemblyReference.cache
+F:\visualstudio\rep\SimpleTypes\SimpleTypes\obj\Debug\SimpleTypes.csproj.SuggestedBindingRedirects.cache
+F:\visualstudio\rep\SimpleTypes\SimpleTypes\obj\Debug\SimpleTypes.csproj.CoreCompileInputs.cache
+F:\visualstudio\rep\SimpleTypes\SimpleTypes\obj\Debug\SimpleTypes.exe
+F:\visualstudio\rep\SimpleTypes\SimpleTypes\obj\Debug\SimpleTypes.pdb
+F:\visualstudio\rep\SimpleTypes\SimpleTypes\bin\Debug\SimpleTypes.exe.config
+F:\visualstudio\rep\SimpleTypes\SimpleTypes\bin\Debug\SimpleTypes.exe
+F:\visualstudio\rep\SimpleTypes\SimpleTypes\bin\Debug\SimpleTypes.pdb
